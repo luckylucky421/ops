@@ -1,6 +1,5 @@
 ## 基于Gitlab+Jenkins Pipeline+Docker+Kubernetes+Helm的自动化部署
 
-参考： [Kubernetes笔记（三）：Gitlab+Jenkins+k8s+Helm自动化部署实践（干货！）](http://blog.jboost.cn/k8s3-cd.html)
 
 ## Spring Boot项目配置需调整的地方
 
